@@ -1,0 +1,2 @@
+vkbottle==4.3.8
+vkbottle-types==5.131.146.10
