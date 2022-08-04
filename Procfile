@@ -1,1 +1,1 @@
-worker: m2.py
+worker: python  m2.py
